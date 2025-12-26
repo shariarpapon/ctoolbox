@@ -1,4 +1,9 @@
 Makefile
+
+/[Ss]rc/
+/[Ii]ncludes/
+/[Iinclude]/
+
 /[Tt]emp/
 /[Tt]emp*/
 
