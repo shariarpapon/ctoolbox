@@ -1,16 +1,4 @@
-Makefile
+*
 
-/_buildtemp/
-/[Ss]rc/
-/[Ii]ncludes/
-/[Iinclude]/
-
-/[Tt]emp/
-/[Tt]emp*/
-
-[Bb]uild
-/[Bb]uilds/
-
-[Tt]est*
-/[Tt]est/
-/[Tt]ests/
+!*.h
+!*.a
